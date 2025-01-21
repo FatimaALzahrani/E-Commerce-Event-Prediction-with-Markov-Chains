@@ -24,19 +24,7 @@ In this project, we analyze an e-commerce dataset to explore user interaction be
 
 ---
 
-## **Installation** ⚙️
-
-To use this repository, clone it to your local machine and install the required Python libraries.
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/FatimaALzahrani/E-Commerce-Event-Prediction-with-Markov-Chains.git
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+## **Required Libraries** ⚙️
 
 The required libraries include:
 - `pandas`
