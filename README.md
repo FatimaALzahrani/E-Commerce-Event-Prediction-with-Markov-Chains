@@ -1,4 +1,4 @@
-[!header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=E-Commerce%20Event%20Prediction%20with%20Markov%20Chains&customColorList=25&fontSize=34)
+![header](https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=E-Commerce%20Event%20Prediction%20with%20Markov%20Chains&customColorList=25&fontSize=34)
 
 This repository contains a project focused on predicting user behavior in an e-commerce setting using Markov Chains. The dataset consists of user interactions with products, and the goal is to predict the sequence of events (view, cart addition, purchase) based on prior user actions. The project includes data cleaning, visualization, model building, and evaluation.
 
