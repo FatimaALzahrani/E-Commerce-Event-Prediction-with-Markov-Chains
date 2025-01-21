@@ -15,8 +15,6 @@ This repository contains a project focused on predicting user behavior in an e-c
   - [Markov Chain Prediction](#markov-chain-prediction)
   - [Model Evaluation](#model-evaluation)
 - [Results](#results)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
